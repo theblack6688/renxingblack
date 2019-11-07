@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://renxingblack.top/"/>
-  <updated>2019-11-06T13:44:44.658Z</updated>
+  <updated>2019-11-07T11:31:50.397Z</updated>
   <id>https://renxingblack.top/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>软件合集【办公软件，你只需要看这一篇文章！长期更新！】</title>
+    <link href="https://renxingblack.top/2019/11/07/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6%E4%B8%80%E6%9D%A1%E9%BE%99/"/>
+    <id>https://renxingblack.top/2019/11/07/办公软件一条龙/</id>
+    <published>2019-11-07T09:19:23.000Z</published>
+    <updated>2019-11-07T11:31:50.397Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件目录"><a href="#软件目录" class="headerlink" title="软件目录"></a>软件目录</h2><ul><li>本站到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字，本篇文章共 &lt;%=wordcount(post.content) %&gt; 字</li><li>本站访问人数：<code class="site_uv"></code>人次，访问量：<code class="site_pv"></code>次。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;软件目录&quot;&gt;&lt;a href=&quot;#软件目录&quot; class=&quot;headerlink&quot; title=&quot;软件目录&quot;&gt;&lt;/a&gt;软件目录&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本站到目前为止已经写了&lt;code class=&quot;article_number&quot;&gt;&lt;/code&gt;篇文章， 共&lt;co
+      
+    
+    </summary>
+    
+    
+      <category term="软件合集" scheme="https://renxingblack.top/categories/%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86/"/>
+    
+    
+      <category term="办公" scheme="https://renxingblack.top/tags/%E5%8A%9E%E5%85%AC/"/>
+    
+      <category term="软件" scheme="https://renxingblack.top/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="合集" scheme="https://renxingblack.top/tags/%E5%90%88%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
